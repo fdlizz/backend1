@@ -1,6 +1,6 @@
 # backend1
 
-A new Flutter project.
+Code tidak dapat berjalan sesuai panduan
 
 ## Getting Started
 
